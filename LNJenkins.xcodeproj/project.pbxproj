@@ -194,7 +194,7 @@
 					D944AC6E1EC4306400E2693C = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = 3XU2FJ59BN;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 					D944AC821EC4306500E2693C = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -420,6 +420,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.letsnurture.LNJenkins;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "eec34d10-9a54-4705-9ee0-da52eae30fae";
+				PROVISIONING_PROFILE_SPECIFIER = "Letsnurture developer Wild card";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -433,6 +435,8 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.letsnurture.LNJenkins;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "eec34d10-9a54-4705-9ee0-da52eae30fae";
+				PROVISIONING_PROFILE_SPECIFIER = "Letsnurture developer Wild card";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
