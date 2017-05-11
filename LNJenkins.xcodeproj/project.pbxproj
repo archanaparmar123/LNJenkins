@@ -415,7 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: LetsNurture Infotech Private Limited";
+				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: LetsNurture Infotech Private Limited";
 				DEVELOPMENT_TEAM = 7CN7W3WLZT;
 				INFOPLIST_FILE = LNJenkins/Info.plist;
@@ -522,6 +522,7 @@
 				D944AC991EC4306500E2693C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D944AC9A1EC4306500E2693C /* Build configuration list for PBXNativeTarget "LNJenkinsTests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +531,7 @@
 				D944AC9C1EC4306500E2693C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D944AC9D1EC4306500E2693C /* Build configuration list for PBXNativeTarget "LNJenkinsUITests" */ = {
 			isa = XCConfigurationList;
@@ -538,6 +540,7 @@
 				D944AC9F1EC4306500E2693C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
